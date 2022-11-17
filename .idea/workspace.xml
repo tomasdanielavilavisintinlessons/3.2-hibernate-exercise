@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="3.1-jpa-exercise:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="082af77d-9f73-4278-b6b4-dc2e087f969e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/3_1_jpa_exercise_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/3_1_jpa_exercise_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/TempMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/connection/ConnectionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/connection/ConnectionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/connection/ConnectionHandlerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/connection/ConnectionHandlerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/dao/course/CourseDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/dao/course/CourseDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/dao/course/CourseDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/dao/course/CourseDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/dao/course_enrollment/CourseEnrollmentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/dao/course_enrollment/CourseEnrollmentDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/dao/course_enrollment/CourseEnrollmentDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/dao/course_enrollment/CourseEnrollmentDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/dao/person/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/dao/person/PersonDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/dao/person/PersonDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/dao/person/PersonDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/dao/professor/ProfessorDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/dao/professor/ProfessorDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/dao/professor/ProfessorDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/dao/professor/ProfessorDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/dao/student/StudentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/dao/student/StudentDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/dao/student/StudentDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/dao/student/StudentDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/model/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/model/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/model/CourseEnrollment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/model/CourseEnrollment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/model/CourseEnrollmentId.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/model/CourseEnrollmentId.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/model/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/model/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/service/course/CourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/service/course/CourseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/service/course/CourseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/service/course/CourseServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/service/course_enrollment/CourseEnrollmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/service/course_enrollment/CourseEnrollmentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/service/course_enrollment/CourseEnrollmentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/service/course_enrollment/CourseEnrollmentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/service/person/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/service/person/PersonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/service/person/PersonServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/service/person/PersonServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/service/professor/ProfessorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/service/professor/ProfessorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/service/professor/ProfessorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/service/professor/ProfessorServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/service/student/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/service/student/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/service/student/StudentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/service/student/StudentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/servlet/Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/servlet/Servlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jpaexercise/utils/ResultSetUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernate_exercise/utils/ResultSetUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/operationsOnCourse.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/operationsOnCourse.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/operationsOnEnrollments.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/operationsOnEnrollments.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/operationsOnPeople.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/operationsOnPeople.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/operationsOnProfessors.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/operationsOnProfessors.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/operationsOnStudent.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/operationsOnStudent.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/research.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/research.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Tag Library Descriptor" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HWvbYrMzAX7d7QQdQzSRIB02DN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/nextre/Documents/GitHub/2.1-jdbc-webapp",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.import"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nextre\Documents\GitHub\3.1-jpa-exercise\src\main\webapp" />
+      <recent name="C:\Users\nextre\Documents\GitHub\3.1-jpa-exercise\src\main\java\com\example\jpaexercise" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nextre\Documents\GitHub\3.1-jpa-exercise\src\main\resources" />
+      <recent name="C:\Users\nextre\Documents\GitHub\3.1-jpa-exercise\src\main\resources\META-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 10.0.27">
+    <configuration name="Testing" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.hibernate_exercise.TempMain" />
+      <module name="3.1-jpa-exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.hibernate_exercise.TempMain" />
+      <module name="3.1-jpa-exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 10.0.27" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.0.27" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="3.1-jpa-exercise:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/hibernate-exercise" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="6c50d9df-c03f-4e95-8fca-2779dd80418c" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54439" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="3.1-jpa-exercise:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Testing" />
+      <item itemvalue="Tomcat Server.Tomcat 10.0.27" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="082af77d-9f73-4278-b6b4-dc2e087f969e" name="Changes" comment="" />
+      <created>1668413800771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668413800771</updated>
+      <workItem from="1668413801937" duration="45448000" />
+      <workItem from="1668671711398" duration="7062000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
